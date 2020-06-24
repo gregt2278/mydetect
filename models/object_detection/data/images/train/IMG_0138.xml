@@ -1,13 +1,13 @@
 <annotation>
 	<folder>train</folder>
-	<filename>IMG_0138.jpg</filename>
-	<path>C:\tensorflow1\models\research\object_detection\images\train\IMG_0138.jpg</path>
+	<filename>IMG_0138.JPG</filename>
+	<path>C:\Users\gregt_000\Documents\phase10images\train\IMG_0138.JPG</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>720</width>
-		<height>1280</height>
+		<width>3024</width>
+		<height>4032</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>273</xmin>
-			<ymin>559</ymin>
-			<xmax>524</xmax>
-			<ymax>917</ymax>
+			<xmin>1110</xmin>
+			<ymin>1636</ymin>
+			<xmax>2198</xmax>
+			<ymax>3228</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_0451JPG.jpg</filename>
+	<path>C:\Users\gregt_000\Documents\phase10images\train\IMG_0451JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2268</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>four</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1086</xmin>
+			<ymin>475</ymin>
+			<xmax>1965</xmax>
+			<ymax>1751</ymax>
+		</bndbox>
+	</object>
+</annotation>

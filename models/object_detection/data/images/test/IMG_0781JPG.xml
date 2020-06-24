@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_0781JPG.jpg</filename>
+	<path>C:\Users\gregt_000\Documents\phase10images\test\IMG_0781JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2256</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>five</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>371</xmin>
+			<ymin>551</ymin>
+			<xmax>1441</xmax>
+			<ymax>2105</ymax>
+		</bndbox>
+	</object>
+</annotation>

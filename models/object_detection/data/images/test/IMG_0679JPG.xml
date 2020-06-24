@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_0679JPG.jpg</filename>
+	<path>C:\Users\gregt_000\Documents\phase10images\train\IMG_0679JPG.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2256</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>twelve</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>807</xmin>
+			<ymin>748</ymin>
+			<xmax>1789</xmax>
+			<ymax>2196</ymax>
+		</bndbox>
+	</object>
+</annotation>
