@@ -48,7 +48,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>sex</name>
+		<name>six</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
